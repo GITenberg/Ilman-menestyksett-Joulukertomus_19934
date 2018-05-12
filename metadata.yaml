@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19934#Ilman-menestyksett-Joulukertomus
 gutenberg_issued: '2006-11-27'
 gutenberg_type: Text
 identifiers:
